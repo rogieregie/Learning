@@ -5,5 +5,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Welcome to my first github repository.");
+        System.out.println("This was message was printed through the \"feature greeting\" branch.");
     }
 }
